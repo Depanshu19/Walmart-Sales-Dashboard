@@ -1,1 +1,88 @@
+1.Sales by Segment:
+Row Labels	Sum of Sales	Sum of Profit
+Consumer	$6,507,949.42	$749,239.78
+Corporate	$3,824,697.52	$441,208.33
+Home Office	$2,309,854.97	$277,009.18
+
+2.Sales by Category:
+Row Labels	Sum of Sales
+Furniture	$4,110,874.19
+Office Supplies	$3,787,070.23
+Technology	$4,744,557.50
+
+3.Sales by market region:
+Row Labels	Sum of Sales	Sum of Profit
+Africa	$783,773	$88,872
+APAC	$3,585,744	$436,000
+Canada	$66,928	$17,817
+EMEA	$806,161	$43,898
+EU	$2,938,089	$372,830
+LATAM	$2,164,605	$221,643
+US	$2,297,201	$286,397
+
+4.Top 5 products with sales and profit:
+Row Labels	Sum of Sales	Sum of Profit
+Phones	$1,706,824	$216,717
+Copiers	$1,509,436	$258,568
+Chairs	$1,501,682	$140,396
+Bookcases	$1,466,572	$161,924
+Storage	$1,127,086	$108,461
+
+5.Bottom 5 products with sales and profit:
+Row Labels	Sum of Sales	Sum of Profit
+Envelopes	$170,904	$29,601
+Fasteners	$83,242	$11,525
+Labels	$73,404	$15,011
+Paper	$244,292	$59,208
+Supplies	$243,074	$22,583
+
+6.Top 10 country by sales: 
+Row Labels	Sum of Sales
+United States	$2,297,201
+Australia	$925,236
+France	$858,931
+China	$700,562
+Germany	$628,840
+Mexico	$622,591
+India	$589,650
+United Kingdom	$528,576
+Indonesia	$404,887
+Brazil	$361,106
+
+7.Countribution of products in sales:
+Row Labels	Sum of Sales
+Phones	$1,706,824
+Copiers	$1,509,436
+Chairs	$1,501,682
+Bookcases	$1,466,572
+Storage	$1,127,086
+Appliances	$1,011,064
+Machines	$779,060
+Tables	$757,042
+Accessories	$749,237
+Binders	$461,912
+Furnishings	$385,578
+Art	$372,092
+Paper	$244,292
+Supplies	$243,074
+Envelopes	$170,904
+Fasteners	$83,242
+Labels	$73,404
+
+8.Contribution in sales by region:
+Row Labels	Sum of Sales
+Africa	$783,773
+Canada	$66,928
+Caribbean	$324,281
+Central	$2,822,303
+Central Asia	$752,827
+East	$678,781
+EMEA	$806,161
+North	$1,248,166
+North Asia	$848,310
+Oceania	$1,100,185
+South	$1,600,907
+Southeast Asia	$884,423
+West	$725,458
+
 
