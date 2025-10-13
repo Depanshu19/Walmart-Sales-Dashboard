@@ -5,5 +5,33 @@ Insights from the project:
 1. Total Sales : $12,642,501.91
 2. Total Profit : $1,467,457.29
 3. Total Products Sold : 178,312.00
+4. Top category in each Segment : Technology
+5. Top 5 Products :
+   Phones
+   Copiers
+   Chairs
+   Bookcases
+   Storage
+
+6. Bottom 5 Products:
+   Envelopes
+   Fasteners
+   Labels
+   Paper
+   Supplies
+
+7. Top 10 Countries by sales:
+   United States
+   Australia
+   France
+   China
+   Germany
+   Mexico
+   India
+   United Kingdom
+   Indonesia
+   Brazil
+
+
 
  
