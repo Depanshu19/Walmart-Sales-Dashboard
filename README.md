@@ -3,9 +3,13 @@ Walmart Sales Dashboard – I built a Dynamic Excel Dashboard using the Walmart 
 
 Insights from the project:
 >> Total Sales : $12,642,501.91
+
 >> Total Profit : $1,467,457.29
+
 >> Total Products Sold : 178,312.00
+
 >> Top category in each Segment : Technology
+
 >> Top 5 Products :
    1. Phones
    2. Copiers
