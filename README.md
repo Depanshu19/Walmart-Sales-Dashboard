@@ -11,30 +11,30 @@ Insights from the project:
 >> Top category in each Segment : Technology
 
 >> Top 5 Products :
-   1. Phones
-   2. Copiers
-   3. Chairs
-   4. Bookcases
-   5. Storage
+      1. Phones
+      2. Copiers
+      3. Chairs
+      4. Bookcases
+      5. Storage
 
 >> Bottom 5 Products:
-   1. Envelopes
-   2. Fasteners
-   3. Labels
-   4. Paper
-   5. Supplies
+      1. Envelopes
+      2. Fasteners
+      3. Labels
+      4. Paper
+      5. Supplies
 
 >> Top 10 Countries by sales:
-   1. United States
-   2. Australia
-   3. France
-   4. China
-   5. Germany
-   6. Mexico
-   7. India
-   8. United Kingdom
-   9. Indonesia
-   10. Brazil
+      1. United States
+      2. Australia
+      3. France
+      4. China
+      5. Germany
+      6. Mexico
+      7. India
+      8. United Kingdom
+      9. Indonesia
+      10. Brazil
 
 
 
