@@ -19,7 +19,7 @@ Insights from the project:
 
 >> Bottom 5 Products:
       1. Envelopes
-      2. Fasteners
+      2. Fasteners 
       3. Labels
       4. Paper
       5. Supplies
