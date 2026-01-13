@@ -9,7 +9,7 @@ Insights from the project:
 >> Total Products Sold : 178,312.00
 
 >> Top category in each Segment : Technology
-
+ 
 >> Top 5 Products :
       1. Phones
       2. Copiers
